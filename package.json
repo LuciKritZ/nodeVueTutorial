@@ -1,0 +1,32 @@
+{
+  "name": "nvm",
+  "version": "1.0.0",
+  "description": "Just for learning Vue with Node and MongoDb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciKritZ/nodeVueTutorial.git"
+  },
+  "keywords": [
+    "Node",
+    "Vue.js",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Krishal Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuciKritZ/nodeVueTutorial/issues"
+  },
+  "homepage": "https://github.com/LuciKritZ/nodeVueTutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3",
+    "nodemon": "^1.19.1"
+  }
+}
